@@ -210,7 +210,7 @@ if ($stmt4 -> execute()) {
                         </th>
                         <th>
                             <?php if(isset($p["imgPlante"])){ ?>
-                                    <img src=" <?php echo $p["imgPlante"] ?>" width="350"> 
+                                    <img src="<?php echo $p["imgPlante"] ?>" width="350"> 
                                     <?php }
                                     else{
                                         echo "La valeur n'existe pas";
