@@ -1,9 +1,9 @@
 <?php
 
-$servername = "185.98.131.109";
-$username = "lejar1343688";
-$password = "PHPljdop2016!";
-$dbname = "lejar1343688";
+$servername = "localhost";
+$username = "root";
+$password = "";
+$dbname = "JDOP";
 
 
 try {
